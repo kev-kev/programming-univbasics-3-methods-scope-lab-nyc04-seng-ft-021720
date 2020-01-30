@@ -12,3 +12,7 @@ def link
   phrase = "It's Dangerous To Go Alone! Take This."
   puts phrase
 end
+
+def anyphrase(catchphrase)
+  puts "#{catchphrase}"
+end
